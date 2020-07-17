@@ -1,0 +1,22 @@
+{
+  "name": "code_nodejs_professional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ITHelpself/nodejs_professional_book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ITHelpself/nodejs_professional_book/issues"
+  },
+  "homepage": "https://github.com/ITHelpself/nodejs_professional_book#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
