@@ -1,5 +1,5 @@
 const http = require('http');
-const port = 1337;
+const port = process.env.Port ||1337;
 var routers = {
     '/': (request,response) => {
         response.writeHead(200);
